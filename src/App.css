@@ -1,0 +1,105 @@
+.body-background{
+    background-color: #abfeff;
+}
+
+.navbar-styles{
+    height: 80px;
+    background-image: linear-gradient(45deg, rgb(139, 255, 124), rgb(114, 255, 86), rgb(103, 253, 170), rgb(0, 255, 255),rgb(63, 255, 255));
+    box-shadow: 0px 5px 5px rgb(0, 0, 0, 0.85);
+}
+
+.btn-carrito-style{
+    display: flex;
+    align-items: center;
+    position: relative;
+    background: none;
+    border: none;
+    margin: 5px;
+}
+
+.img-logo-style{
+    width: 150px;
+}
+
+.li-navbar-style{
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+    font-size: 1.6rem;
+}
+
+.saludo-style{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-size: 28px;
+    font-weight: 700;
+    font-style: italic;
+    letter-spacing: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.btn-carrito-style .badge{
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    font-size: 12px;
+    background-color: red;
+}
+
+.item-list-styles{
+    border-radius: 20px;
+    background-color: aquamarine;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.5);
+}
+
+.containerCells{
+    gap: 45px;
+    margin-top: 15px;
+}
+
+.imgCellRed{
+    width: 200px;
+    height: 300px;
+}
+
+.imgLoadingClass{
+    width: 400px;
+    height: 400px;
+}
+
+.pageNotFound{
+    text-align: center;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+    font-size: 2rem;
+}
+
+.detailContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.cardTitleStyles{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    color: black;
+}
+
+.cardTextStyles{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: black;
+}
+
+.detailStyles{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: black;
+}
